@@ -1,0 +1,23 @@
+#container {
+	width: 920px;
+	height: auto;
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: lightslategray;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+button {
+	display: block;
+	margin: auto;
+}
